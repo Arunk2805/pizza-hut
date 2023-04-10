@@ -21,7 +21,7 @@
 .img4{
   height: 413px;
 }
-.container-fluid{
+.vegBox{
   background-color: rgb(246, 246, 241);
 }
 .card1{
@@ -34,4 +34,19 @@
   display: flex;
   align-items: center;
 padding: 5px;
+}
+.box1{
+  display: flex;
+  flex-direction: column;
+  
+  align-items: center;
+}
+.NonVegBox{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.p1{
+  cursor: pointer;
 }
