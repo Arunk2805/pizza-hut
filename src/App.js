@@ -1,28 +1,21 @@
+import "./App.css";
+import Banner from "./components/Banner";
+import Header from "./components/Header";
+import PizzaDescrp from "./components/PizzaDescrp";
 
-import './App.css';
-import Banner from './components/Banner';
-import Header from './components/Header';
-
-
-
-
-
-
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div >
-    
-      <Header/>
-      <Banner/>
+    <div>
       
-   
-      
-     
-     
-     
-    
-      
+      <Header />
+      <BrowserRouter>
+        <Routes>
+          <Route index path="/" element={<Banner />} />
+          <Route path="/pizzades/:id" element={<PizzaDescrp />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }

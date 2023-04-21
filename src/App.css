@@ -19,34 +19,38 @@
   top: 1.6rem;
 }
 .img4{
-  height: 413px;
-}
-.vegBox{
-  background-color: rgb(246, 246, 241);
-}
-.card1{
-  width: 700px;
-}
-.img6{
-  height: 180px;
-}
-.a1{
-  display: flex;
-  align-items: center;
-padding: 5px;
-}
-.box1{
-  display: flex;
-  flex-direction: column;
-  
-  align-items: center;
-}
-.NonVegBox{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  
+  height: 527px;
 }
 .p1{
   cursor: pointer;
 }
+.box1{
+  background-color: rgb(246, 246, 241);
+
+}
+.card1{
+  width: 16rem;
+}
+
+.img1{
+  width: 230px;
+  height: 150px;
+  position: relative;
+  left: 10px;
+  top: 5px;
+  border-radius: 10px;
+  
+}
+.img2{
+  width: 350px;
+  height: 250px;
+  border-radius: 25px;
+
+}
+
+
+
+
+
+
+

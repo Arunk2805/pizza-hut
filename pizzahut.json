@@ -1,0 +1,214 @@
+{
+  "pizzaHut":[
+    {
+      "id":1,
+      
+      "category":"VegetarianPizza",
+      "title":"Deluxe Veggie Pizza",
+      "size":{
+        "Regular": 150,
+        "Medium":200,
+        "Large":325
+      },
+      "typeOfCrust":["New hand tossed","Wheat thin crust"," Cheese Burst","Fresh pan pizza"],
+      "extraToppings":{
+        "vegToppings":{
+          "BlackOlive ": 20,
+          "Capsicum":25,
+          "Paneer" :35,
+          "Mushroom":30,
+          "FreshTomato":10
+        },
+        "NonvegTopping":{
+          "ChickenTikka":35,
+          "BarbequeChicken":45,
+          "GrilledChicken" : 40
+        },
+        "extraCheese":35,
+        "sides":{
+          "ColdDrink":55,
+          "MousseCake":90
+        }
+      },
+      "image":"https://bigoven-res.cloudinary.com/image/upload/t_recipe-1280/veggie-deluxe-homemade-pizza.jpg",
+      "description":" The use of the freshest, top-quality ingredient makes deluxe veggie pizza tastier something else . "
+      
+
+    },
+    {
+      "id":2,
+      "category":"VegetarianPizza",
+      "title":"Cheese and Corn Pizza",
+      "size":{
+        "Regular": 150,
+        "Medium":200,
+        "Large":325
+      },
+      "typeOfCrust":["New hand tossed","Wheat thin crust"," Cheese Burst","Fresh pan pizza"],
+      "extraToppings":{
+        "vegToppings":{
+          "BlackOlive ": 20,
+          "Capsicum":25,
+          "Paneer" :35,
+          "Mushroom":30,
+          "FreshTomato":10
+        },
+        "NonvegTopping":{
+          "ChickenTikka":35,
+          "BarbequeChicken":45,
+          "GrilledChicken" : 40
+        },
+        "extraCheese":35,
+        "sides":{
+          "ColdDrink":55,
+          "MousseCake":90
+        }
+      },
+      "image":"https://bigoven-res.cloudinary.com/image/upload/t_recipe-1280/veggie-deluxe-homemade-pizza.jpg",
+      "description":"A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce."
+      
+
+    },
+    {
+      "id":3,
+      "category":"VegetarianPizza",
+      "title":"Paneer Tikka Pizza",
+      "size":{
+        "Regular": 150,
+        "Medium":200,
+        "Large":325
+      },
+      "typeOfCrust":["New hand tossed","Wheat thin crust"," Cheese Burst","Fresh pan pizza"],
+      "extraToppings":{
+        "vegToppings":{
+          "BlackOlive ": 20,
+          "Capsicum":25,
+          "Paneer" :35,
+          "Mushroom":30,
+          "FreshTomato":10
+        },
+        "NonvegTopping":{
+          "ChickenTikka":35,
+          "BarbequeChicken":45,
+          "GrilledChicken" : 40
+        },
+        "extraCheese":35,
+        "sides":{
+          "ColdDrink":55,
+          "MousseCake":90
+        }
+      },
+      "image":"https://bigoven-res.cloudinary.com/image/upload/t_recipe-1280/veggie-deluxe-homemade-pizza.jpg",
+      "description":" The marinated paneer cubes with diced onions and capsicum is placed onpizza. once . "
+      
+
+    },
+    {
+      "id":4,
+      "category":"NonVegetarianPizza",
+      "title":"Non-Veg Supreme Pizza",
+      "size":{
+        "Regular": 150,
+        "Medium":200,
+        "Large":325
+      },
+      "typeOfCrust":["New hand tossed","Wheat thin crust"," Cheese Burst","Fresh pan pizza"],
+      "extraToppings":{
+        "vegToppings":{
+          "BlackOlive ": 20,
+          "Capsicum":25,
+          "Paneer" :35,
+          "Mushroom":30,
+          "FreshTomato":10
+        },
+        "NonvegTopping":{
+          "ChickenTikka":35,
+          "BarbequeChicken":45,
+          "GrilledChicken" : 40
+        },
+        "extraCheese":35,
+        "sides":{
+          "ColdDrink":55,
+          "MousseCake":90
+        }
+      },
+      "image":"https://bigoven-res.cloudinary.com/image/upload/t_recipe-1280/veggie-deluxe-homemade-pizza.jpg",
+      "description":"Loaded with grilled chicken rashers, black olives, peri-peri chicken, grilled mushrooms something"
+      
+
+    },
+    {
+      "id":5,
+      "category":"NonVegetarianPizza",
+      "title":"Chicken Tikka Pizza",
+      "size":{
+        "Regular": 150,
+        "Medium":200,
+        "Large":325
+      },
+      "typeOfCrust":["New hand tossed","Wheat thin crust"," Cheese Burst","Fresh pan pizza"],
+      "extraToppings":{
+        "vegToppings":{
+          "BlackOlive ": 20,
+          "Capsicum":25,
+          "Paneer" :35,
+          "Mushroom":30,
+          "FreshTomato":10
+        },
+        "NonvegTopping":{
+          "ChickenTikka":35,
+          "BarbequeChicken":45,
+          "GrilledChicken" : 40
+        },
+        "extraCheese":35,
+        "sides":{
+          "ColdDrink":55,
+          "MousseCake":90
+        }
+      },
+      "image":"https://bigoven-res.cloudinary.com/image/upload/t_recipe-1280/veggie-deluxe-homemade-pizza.jpg",
+      "description":" Loaded with grilled chicken rashers, black olives, peri-peri chicken, grilled mushrooms. something "
+      
+
+    },
+    {
+      "id":6,
+      "category":"NonVegetarianPizza",
+      "title":"Pepper Barbecue ChickenPizza",
+      "size":{
+        "Regular": 150,
+        "Medium":200,
+        "Large":325
+      },
+      "typeOfCrust":["New hand tossed","Wheat thin crust"," Cheese Burst","Fresh pan pizza"],
+      "extraToppings":{
+        "vegToppings":{
+          "BlackOlive ": 20,
+          "Capsicum":25,
+          "Paneer" :35,
+          "Mushroom":30,
+          "FreshTomato":10
+        },
+        "NonvegTopping":{
+          "ChickenTikka":35,
+          "BarbequeChicken":45,
+          "GrilledChicken" : 40
+        },
+        "extraCheese":35,
+        "sides":{
+          "ColdDrink":55,
+          "MousseCake":90
+        }
+      },
+      "image":"https://bigoven-res.cloudinary.com/image/upload/t_recipe-1280/veggie-deluxe-homemade-pizza.jpg",
+      "description":" Loaded with grilled chicken rashers, black olives, peri-peri chicken, grilled mushrooms, ."
+      
+
+    }
+    
+
+
+    
+
+  ]
+}
